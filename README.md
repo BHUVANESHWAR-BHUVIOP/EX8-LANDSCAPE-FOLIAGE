@@ -80,12 +80,30 @@ optimizing performance until you achieve the desired result.
 
 ## OUTPUT:
 
-### Full View:
-![image](https://github.com/Aashima02/Landscape-Foliage/assets/93427086/7fe1069e-b81a-4edc-8735-c20ae6732234)
+### Layers Created:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/726d7eec-8f66-4fcf-a18b-c980520bdd5c)
 
 
-### Player View:
-![image](https://github.com/Aashima02/Landscape-Foliage/assets/93427086/4e48cfa1-8803-40b2-957e-22466f7298dd)
+### Landscape Material:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/8f8540ee-ddf3-472a-a0f6-984114abf71b)
+
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/90ce879b-4612-4793-9a86-568a5b8d40ac)
+
+### Paint material Created:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/eb7a943b-a71c-480e-87b8-b247ceb75b06)
+
+### Foliage:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/a8c5d5a8-873a-4d4d-8ec7-225806339d34)
+
+### 3D House Model:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/31008d74-7421-46aa-8fce-a3f421e4c35d)
+
+### 3D Bridge Model:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/bddc7bdf-2cbc-48f2-8686-3772062ac477)
+
+### Terrain Created:
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX8-LANDSCAPE-FOLIAGE/assets/94155099/54a32dc7-c00e-40e9-95a5-2d1361c2dd11)
+
 
 ## RESULT:
 
